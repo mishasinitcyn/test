@@ -1,7 +1,1 @@
-[{"id":1,
-"name":"I am Groot",
-"image":"/products/lambo.jpg",
-"description":"",
-"price":"8",
-"created_at":"",
-"updated_at":""}]
+[{"id":1,"name":"I am Groot","image":"/products/lambo.jpg","description":"","price":"8","created_at":"","updated_at":""}]
